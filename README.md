@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sijon999
 - 👀 I’m interested in Javascript.
-- 🌱 I’m currently learning React.js.
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on who love and learn Js
 - 📫 How to reach me on Telegram
 
